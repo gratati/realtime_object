@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">realtime_object</string>
+    <string name="toolbar_description">Toolbar for navigation</string>
+    <string name="video_view_description">Video view for displaying the video</string>
+    <string name="image_view_description">Image view for displaying detected objects</string>
+    <string name="exit">Выйти</string>
+    <string name="image_description">Камера в режиме реального времени для распознавания объектов</string>
+</resources>
