@@ -27,8 +27,8 @@ Android Camera2 API для работы с камерой устройства
 Android Studio и Android SDK для разработки приложения
 Контакты
 Если у вас возникли вопросы или предложения, свяжитесь с нами:
-Gitflic: https://gitflic.ru/project/glata/volleyball_objectdetection
-Telegram: @mentvork
+gratati49@gmail.com
+
 
 
 
