@@ -35,7 +35,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/object-detection-app.git
+   git clone https://github.com/gratati/realtime_object
 Откройте проект в Android Studio:
 Запустите Android Studio
 Выберите "Open an existing project"
